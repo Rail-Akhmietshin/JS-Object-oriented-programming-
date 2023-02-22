@@ -1,4 +1,4 @@
-class EditString {
+export class EditString {
     constructor(string) {
         this.string = string;
     }

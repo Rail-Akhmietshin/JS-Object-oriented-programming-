@@ -1,4 +1,4 @@
-class Operations {
+export class Operations {
 
     constructor( a, b ) {
         this.a = a;
